@@ -1,0 +1,22 @@
+::selection {
+    background-color: purple;
+}
+
+body {
+    background: linear-gradient(90deg,red, purple, black);
+    font-size: 30px;
+    color: white;
+    display: grid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    margin-top: 90px;
+    text-align: center;
+}
+
+div {
+    cursor: pointer;
+}
